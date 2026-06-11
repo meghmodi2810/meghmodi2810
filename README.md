@@ -3,8 +3,9 @@
 ## Machine Learning & MLOps Engineer
 
 <div align="center">
-  <img src="YOUR_IMAGE_PATH_HERE" width="100%" alt="Megh Modi Visual Resume">
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7f3c4540-df0a-45d1-8632-6dca8e5c79e2" />
 </div>
+
 
 ---
 
